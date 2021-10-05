@@ -1,0 +1,25 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim-Likhachev/classes-inheritance.git"
+  },
+  "author": "Vadim Likhachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadim-Likhachev/classes-inheritance/issues"
+  },
+  "homepage": "https://github.com/Vadim-Likhachev/classes-inheritance#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
+}
